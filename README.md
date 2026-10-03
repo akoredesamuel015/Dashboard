@@ -66,3 +66,4 @@ Aspiring Data Analyst
 **Power BI | Excel | SQL**
 
 <img width="1035" height="491" alt="image" src="https://github.com/user-attachments/assets/e4f2944e-a824-403e-80ba-29a604075710" />
+
